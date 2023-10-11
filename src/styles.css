@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-right: 20px;
+}
